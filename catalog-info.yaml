@@ -6,13 +6,13 @@ metadata:
     Backstage is an open-source developer portal that puts the developer experience first.
   links:
     - title: Website
-      url: http://backstage.io
+      url: http://facebook.com
     - title: Documentation
       url: https://backstage.io/docs
     - title: Storybook
       url: https://backstage.io/storybook
     - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
+      url: https://google.com
   annotations:
     github.com/project-slug: backstage/demo
     backstage.io/techdocs-ref: dir:.
